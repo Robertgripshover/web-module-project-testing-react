@@ -23,10 +23,10 @@ Get the project fired up and start using it as a user would. Try to go through t
 
 ### Task 1: Project Set Up
 
-- [ ] Create a forked copy of this project.
-- [ ] Clone your OWN version of the repository in your terminal
-- [ ] cd into the project base directory `cd web-module-project-testing-react`
-- [ ] Download project dependencies by running `npm install`
+- [X ] Create a forked copy of this project.
+- [X ] Clone your OWN version of the repository in your terminal
+- [X ] cd into the project base directory `cd web-module-project-testing-react`
+- [X ] Download project dependencies by running `npm install`
 - [ ] Start up the app using `npm start`
 
 * [ ] With each saved change in your editor, the test runner will re-run all the tests
